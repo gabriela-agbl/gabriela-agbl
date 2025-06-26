@@ -51,9 +51,9 @@
 
 <div align="center">
   <h2>📊 My Stats</h2>
-  <img alt="Status" height="180em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Agbl09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img alt="Status" height="180em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=gabriela-agbl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="top langs" height="180em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agbl09&layout=compact&langs_count=7&theme=dracula"/>
+  <img alt="top langs" height="180em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-agbl&layout=compact&langs_count=7&theme=dracula"/>
 
   <br clear="both">
 </div>
@@ -63,9 +63,9 @@
 <div align="center">
 <h2>📌 Featured Projects</h2>
   
-### 🎨 [Website de Recreação Infantil](https://github.com/Agbl09/Site-Recreacao-Infantil)
+### 🎨 [Website de Recreação Infantil](https://github.com/gabriela-agbl/Site-Recreacao-Infantil)
 
-### 🏥 [Sistema de Clínica](https://github.com/Agbl09/Sistema-Clinica)
+### 🏥 [Sistema de Clínica](https://github.com/gabriela-agbl/Sistema-Clinica)
 </div>
 
 ---
@@ -79,7 +79,7 @@
 
 <div style="width: 100px; heigth: 100px;" align="center">
   
-![Snake animation](https://raw.githubusercontent.com/Agbl09/Agbl09/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/gabriela-agbl/gabriela-agbl/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -107,7 +107,7 @@
 
 
 <!--
-**Agbl09/Agbl09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gabriela-agbl/gabriela-agbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
