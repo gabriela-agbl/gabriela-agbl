@@ -73,10 +73,10 @@
 
 <div align="center">
   <h2>📚 Recent Activities</h2>
-  Configuração e uso de distribuições Linux, incluindo criação de ambientes personalizados para estudo e trabalho.<br>
-  Realização de **dual boot** entre Windows e Kali Linux para práticas avançadas.<br>
-  Exploração de ferramentas de **Cybersecurity**, incluindo análise, testes e simulações em ambiente controlado.<br>
-  Criação e gerenciamento de **máquinas virtuais** para estudos de redes, segurança e deploy de aplicações.<br>
+  Configuração e uso de distribuições Linux.<br>
+  Realização de <b>dual boot</b>.<br>
+  Exploração de ferramentas de <b>Cybersecurity</b>.<br>
+  Criação e gerenciamento de <b>máquinas virtuais</b>.<br>
   Aplicação de boas práticas em versionamento, documentação e organização de projetos.<br>
 </div>
 
