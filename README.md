@@ -64,7 +64,7 @@
 <div align="center">
 <h2>📌 Featured Projects</h2>
   
-### 🎨 [Website de Recreação Infantil](https://github.com/gabriela-agbl/Site-Recreacao-Infantil)
+### 🎨 [Orçamento de Imobiliária](https://github.com/gabriela-agbl/orcamento_imobiliaria)
 
 ### 🏥 [Sistema de Clínica](https://github.com/gabriela-agbl/Sistema-Clinica)
 </div>
