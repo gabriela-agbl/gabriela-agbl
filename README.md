@@ -14,10 +14,11 @@
 
 <div align="center">
   <h1>🚀 About Me</h1>
-  
-  💻 Estudando: IA, Desenvolvimento Web e Banco de Dados.<br>
-  🎯 Foco: Sistemas de Informação e desenvolvimento de projetos impactantes.<br> 
-  📖 Atualmente aprendendo <b>Node.js</b>, <b>JUnit</b>, e <b>MySQL</b>.<br> 
+
+  💼 Estagiária em Analytics na VIVO – atuando com rastreamento de fraudes, análise de dados e automação.<br>
+  💻 Estudando: IA, Desenvolvimento Web, Banco de Dados e Análise de Dados.<br>
+  🎯 Foco: Sistemas de Informação, Desenvolvimento de projetos impactantes e CyberSegurança.<br> 
+  📖 Atualmente aprendendo <b>Python</b>, <b>Automação</b>, <b>SQL</b> e <b>Linux</b>.<br> 
   📈 Experiência com testes automatizados e configuração de servidores simulados.<br>
 </div>
 
@@ -72,9 +73,11 @@
 
 <div align="center">
   <h2>📚 Recent Activities</h2>
-  Desenvolvimento de um <b>eBook educativo</b> com técnicas de estudo, criado no Canva.<br> 
-  Configuração de serviços simulados usando JSON Server para exibição de dados dinâmicos.<br>  
-  Estudos para vestibulares como ENEM, Fuvest e Fatec.<br>
+  Configuração e uso de distribuições Linux, incluindo criação de ambientes personalizados para estudo e trabalho.<br>
+  Realização de **dual boot** entre Windows e Kali Linux para práticas avançadas.<br>
+  Exploração de ferramentas de **Cybersecurity**, incluindo análise, testes e simulações em ambiente controlado.<br>
+  Criação e gerenciamento de **máquinas virtuais** para estudos de redes, segurança e deploy de aplicações.<br>
+  Aplicação de boas práticas em versionamento, documentação e organização de projetos.<br>
 </div>
 
 <div style="width: 100px; heigth: 100px;" align="center">
